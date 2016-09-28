@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/web/ConcurrentHashMap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/cJSON.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/ConcurrentHashMap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/queue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/Logger.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/Setting.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/webServer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/webServer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/Setting.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/cJSON.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web/Logger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/Reader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/wtest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/MessageQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/append.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/Reader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/write.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/threadsTest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/Writer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/Writer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/mtest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fcgi/ftest.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fcgi/fcgi.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fcgi/spawn.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fcgi/fcgi.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webServer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/BufferEvent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Epoll.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/TimerEvent.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Event.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/timer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Socket.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Event.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Thread.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/EventLoop.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Epoll.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/EventLoop.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Server.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/TimerQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Socket.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/TimerQueue.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Thread.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/signalfd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/BufferEvent.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/SignalEvent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/SocketTest.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Buffer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/SignalEvent.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/TimerEvent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/Buffer.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
